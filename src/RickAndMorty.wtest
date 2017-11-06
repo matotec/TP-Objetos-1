@@ -14,6 +14,13 @@ describe "Test para el TP" {
 		assert.that(true)
 	
 	}
+	
+	test "nuevo test" {
+	
+		assert.that(true)
+	
+	}
+	
 
 
 }
