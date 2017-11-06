@@ -1,0 +1,19 @@
+import RickAndMorty.*
+
+describe "Test para el TP" {
+	
+	var morty = new Acompaniante()
+
+	fixture {
+		morty
+	}
+
+
+	test "testX" {
+	
+		assert.that(true)
+	
+	}
+
+
+}
