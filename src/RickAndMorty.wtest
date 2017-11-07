@@ -2,7 +2,7 @@ import RickAndMorty.*
 
 describe "Test para el TP" {
 	
-	var morty = new Acompaniante()
+	var morty = new Morty()
 
 	fixture {
 		morty
